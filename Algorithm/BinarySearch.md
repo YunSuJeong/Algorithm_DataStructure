@@ -43,5 +43,5 @@ binarySearch(int arr[], target, int low, int high) {
 
 ## 예제
 ### 백준
-  1. 1654번 [랜선 자르기](https://www.acmicpc.net/problem/1654)  
-     - 🔎[소스 보기](https://github.com/YunSuJeong/BAEKJOON/blob/main/%EB%B0%B1%EC%A4%80/Silver/1654.%E2%80%85%EB%9E%9C%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/%EB%9E%9C%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0.java)
+- [1654] [랜선 자르기](https://www.acmicpc.net/problem/1654) : 🔎[소스 보기](https://github.com/YunSuJeong/BAEKJOON/blob/main/%EB%B0%B1%EC%A4%80/Silver/1654.%E2%80%85%EB%9E%9C%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/%EB%9E%9C%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0.java)
+- [1822] [차집합](https://www.acmicpc.net/problem/1822) : 🔎[소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/1822.%E2%80%85%EC%B0%A8%EC%A7%91%ED%95%A9)
