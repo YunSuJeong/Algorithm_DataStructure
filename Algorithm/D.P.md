@@ -28,6 +28,11 @@
   1. Bottom-Up(Tabulation 방식) : 반복문 사용
   2. Top-Down(Memoization 방식) : 재귀 사용
 
+## 예제
+
+### 백준
+- [11727] [2×n 타일링 2](https://www.acmicpc.net/problem/11727) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852)
+
 [참고] https://hongjw1938.tistory.com/47
 
       
