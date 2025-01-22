@@ -1,0 +1,7 @@
+# 조합(Combination)
+
+## 점화식
+
+## 예제
+### 백준
+- [2004] [조합 0의 개수](https://www.acmicpc.net/problem/2004) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/2004.%E2%80%85%EC%A1%B0%ED%95%A9%E2%80%850%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
