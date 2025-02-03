@@ -15,3 +15,4 @@ ex) dad, 1001, abcdcba, level ...
 ## 예제
 ### 백준
 - [1213] [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/1213.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [25501] [재귀의 귀재](https://www.acmicpc.net/problem/25501) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Bronze/25501.%E2%80%85%EC%9E%AC%EA%B7%80%EC%9D%98%E2%80%85%EA%B7%80%EC%9E%AC)
