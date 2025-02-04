@@ -43,3 +43,4 @@ for(int i=1; i<=N; i++) {
 ## 예제
 ### 백준
 - [24416] [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) : 재귀호출과 DP의 실행횟수 비교 [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Bronze/24416.%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%E2%80%85%EC%88%98%EC%97%85%E2%80%85%EF%BC%8D%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%851)
+- [1904] [01타일](https://www.acmicpc.net/problem/1904) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/1904.%E2%80%8501%ED%83%80%EC%9D%BC)
