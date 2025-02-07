@@ -9,7 +9,7 @@
 - combination(조합) [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/combination.md)
 - 이항계수 [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98.md)
 
-## 탐색 알고리즘
+### 탐색 알고리즘
 - BinarySearch(이진탐색) [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/BinarySearch.md)
 - Two Pointers & Sliding Window [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/Two%20Pointers%20%26%20Sliding%20Window.md)
 - Recursion [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/Recursion.md)
@@ -18,7 +18,7 @@
 - Dynamic Programming [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/D.P.md)
 - BFS & DFS [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/BFS%20%26%20DFS.md)
 
-## 알고리즘 공부를 위한 기초 지식
+### 알고리즘 공부를 위한 기초 지식
 - graph(그래프) [🔎](https://github.com/YunSuJeong/Algorithm_DataStructure/blob/main/Algorithm/graph.md)
 
 ## Data Structure
