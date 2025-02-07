@@ -74,3 +74,7 @@ java.util.Collection를 상속한다.
 | 순서 | X | O |
 | 접근 방식 | 인덱스로 접근X | 인덱스로 접근 |
 | 주요 활용 | 중복 제거, 집합 연산 | 순서가 중요한 데이터 관리 |
+
+## 예제
+### 백준
+- [26069] [붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4)
