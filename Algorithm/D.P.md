@@ -40,6 +40,12 @@
 - [17626] [Four Squares](https://www.acmicpc.net/problem/17626) : 1699와 같은 유형 [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/17626.%E2%80%85Four%E2%80%85Squares)
 - [9184] [신나는 함수 실행](https://www.acmicpc.net/problem/9184) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/9184.%E2%80%85%EC%8B%A0%EB%82%98%EB%8A%94%E2%80%85%ED%95%A8%EC%88%98%E2%80%85%EC%8B%A4%ED%96%89)
 - [1912] [연속합](https://www.acmicpc.net/problem/1912) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9)
+- [19947] [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/19947.%E2%80%85%ED%88%AC%EC%9E%90%EC%9D%98%E2%80%85%EA%B7%80%EC%9E%AC%E2%80%85%EB%B0%B0%EC%A3%BC%ED%98%95)
+- [14606] [피자 (Small)](https://www.acmicpc.net/problem/14606) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14606.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EF%BC%88Small%EF%BC%89)
+- [9625] [BABBA](https://www.acmicpc.net/problem/9625) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/9625.%E2%80%85BABBA)
+- [32981] [찐 Even Number](https://www.acmicpc.net/problem/32981) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/32981.%E2%80%85%EC%B0%90%E2%80%85Even%E2%80%85Number)
+- [] []() : [소스 보기]()
+
 
 [참고] https://hongjw1938.tistory.com/47
 
