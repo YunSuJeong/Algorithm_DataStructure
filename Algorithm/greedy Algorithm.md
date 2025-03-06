@@ -17,7 +17,7 @@
 ## 예제
 ### 백준
 - [25644] [최대 상승](https://www.acmicpc.net/problem/25644) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/25644.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%83%81%EC%8A%B9)
-
+- [2891] [카약과 강풍](https://www.acmicpc.net/problem/2891) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2891.%E2%80%85%EC%B9%B4%EC%95%BD%EA%B3%BC%E2%80%85%EA%B0%95%ED%92%8D)
 
 ### 참고
 - https://velog.io/@contea95/%ED%83%90%EC%9A%95%EB%B2%95%EA%B7%B8%EB%A6%AC%EB%94%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
