@@ -45,6 +45,7 @@
 - [9625] [BABBA](https://www.acmicpc.net/problem/9625) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/9625.%E2%80%85BABBA)
 - [32981] [찐 Even Number](https://www.acmicpc.net/problem/32981) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/32981.%E2%80%85%EC%B0%90%E2%80%85Even%E2%80%85Number)
 - [1149] [RGB거리](https://www.acmicpc.net/problem/1149) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1149.%E2%80%85RGB%EA%B1%B0%EB%A6%AC)
+- [15489] [파스칼 삼각형](https://www.acmicpc.net/problem/15489) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/15489.%E2%80%85%ED%8C%8C%EC%8A%A4%EC%B9%BC%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
