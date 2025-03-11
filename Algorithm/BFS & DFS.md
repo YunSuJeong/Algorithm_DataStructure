@@ -180,6 +180,7 @@ DFS-ALL(G) {
 - [1182] [부분수열의 합](https://www.acmicpc.net/problem/1182) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1182.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9)
 - [31575] [도시와 비트코인](https://www.acmicpc.net/problem/31575) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/31575.%E2%80%85%EB%8F%84%EC%8B%9C%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8)
 - [16173] [점프왕 쩰리 (Small)](https://www.acmicpc.net/problem/16173) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/16173.%E2%80%85%EC%A0%90%ED%94%84%EC%99%95%E2%80%85%EC%A9%B0%EB%A6%AC%E2%80%85%EF%BC%88Small%EF%BC%89)
+- [26169] [세 번 이내에 사과를 먹자](https://www.acmicpc.net/problem/26169) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/26169.%E2%80%85%EC%84%B8%E2%80%85%EB%B2%88%E2%80%85%EC%9D%B4%EB%82%B4%EC%97%90%E2%80%85%EC%82%AC%EA%B3%BC%EB%A5%BC%E2%80%85%EB%A8%B9%EC%9E%90)
 
 ### SWEA
 - [6808] [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1&&&&&&&&&&) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6808.%E2%80%85%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
