@@ -48,6 +48,8 @@
 - [15489] [파스칼 삼각형](https://www.acmicpc.net/problem/15489) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/15489.%E2%80%85%ED%8C%8C%EC%8A%A4%EC%B9%BC%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95)
 - [2491] [수열](https://www.acmicpc.net/problem/2491) : [소스보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2491.%E2%80%85%EC%88%98%EC%97%B4)
 - [9657] [돌 게임 3](https://www.acmicpc.net/problem/9657) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/9657.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%853)
+- [14501] [퇴사](https://www.acmicpc.net/problem/14501) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14501.%E2%80%85%ED%87%B4%EC%82%AC)
+- [8394] [악수](https://www.acmicpc.net/problem/8394) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/8394.%E2%80%85%EC%95%85%EC%88%98)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
