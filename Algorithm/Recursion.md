@@ -10,3 +10,6 @@
 - [14888] [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/14888.%E2%80%85%EC%97%B0%EC%82%B0%EC%9E%90%E2%80%85%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)
 - [27433] [팩토리얼 2](https://www.acmicpc.net/problem/27433) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Bronze/27433.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%852)
 - [4779] [칸토어 집합](https://www.acmicpc.net/problem/4779) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/4779.%E2%80%85%EC%B9%B8%ED%86%A0%EC%96%B4%E2%80%85%EC%A7%91%ED%95%A9)
+
+### SWEA
+- [2806] [N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&problemTitle=2806&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/2806.%E2%80%85N%EF%BC%8DQueen)
