@@ -188,6 +188,8 @@ DFS-ALL(G) {
 - [14248] [점프 점프](https://www.acmicpc.net/problem/14248) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14248.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%A0%90%ED%94%84)
 - [11123] [양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/11123.%E2%80%85%EC%96%91%E2%80%85%ED%95%9C%EB%A7%88%EB%A6%AC%EF%BC%8E%EF%BC%8E%EF%BC%8E%E2%80%85%EC%96%91%E2%80%85%EB%91%90%EB%A7%88%EB%A6%AC%EF%BC%8E%EF%BC%8E%EF%BC%8E)
 - [13565] [침투](https://www.acmicpc.net/problem/13565) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/13565.%E2%80%85%EC%B9%A8%ED%88%AC)
+- [2210] [숫자판 점프](https://www.acmicpc.net/problem/2210) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2210.%E2%80%85%EC%88%AB%EC%9E%90%ED%8C%90%E2%80%85%EC%A0%90%ED%94%84)
+- [21736] [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/21736.%E2%80%85%ED%97%8C%EB%82%B4%EA%B8%B0%EB%8A%94%E2%80%85%EC%B9%9C%EA%B5%AC%EA%B0%80%E2%80%85%ED%95%84%EC%9A%94%ED%95%B4)
 
 ### SWEA
 - [6808] [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1&&&&&&&&&&) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6808.%E2%80%85%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
