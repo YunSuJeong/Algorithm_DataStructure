@@ -59,6 +59,8 @@
 - [22971] [증가하는 부분 수열의 개수](https://www.acmicpc.net/problem/22971) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/22971.%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
 - [31670] [특별한 마법 공격](https://www.acmicpc.net/problem/31670) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/31670.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EB%A7%88%EB%B2%95%E2%80%85%EA%B3%B5%EA%B2%A9)
 - [22114] [창영이와 점프](https://www.acmicpc.net/problem/22114) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/22114.%E2%80%85%EC%B0%BD%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%EC%A0%90%ED%94%84)
+- [18249] [욱제가 풀어야 하는 문제](https://www.acmicpc.net/problem/18249) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/18249.%E2%80%85%EC%9A%B1%EC%A0%9C%EA%B0%80%E2%80%85%ED%92%80%EC%96%B4%EC%95%BC%E2%80%85%ED%95%98%EB%8A%94%E2%80%85%EB%AC%B8%EC%A0%9C)
+- [13270] [피보나치 치킨](https://www.acmicpc.net/problem/13270) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/13270.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%B9%98%ED%82%A8)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
