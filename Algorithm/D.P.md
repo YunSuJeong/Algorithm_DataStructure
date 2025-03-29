@@ -61,6 +61,8 @@
 - [22114] [창영이와 점프](https://www.acmicpc.net/problem/22114) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/22114.%E2%80%85%EC%B0%BD%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%EC%A0%90%ED%94%84)
 - [18249] [욱제가 풀어야 하는 문제](https://www.acmicpc.net/problem/18249) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/18249.%E2%80%85%EC%9A%B1%EC%A0%9C%EA%B0%80%E2%80%85%ED%92%80%EC%96%B4%EC%95%BC%E2%80%85%ED%95%98%EB%8A%94%E2%80%85%EB%AC%B8%EC%A0%9C)
 - [13270] [피보나치 치킨](https://www.acmicpc.net/problem/13270) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/13270.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%B9%98%ED%82%A8)
+- [20162] [간식 파티](https://www.acmicpc.net/problem/20162) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/20162.%E2%80%85%EA%B0%84%EC%8B%9D%E2%80%85%ED%8C%8C%ED%8B%B0)
+- [20152] [Game Addiction](https://www.acmicpc.net/problem/20152) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/20152.%E2%80%85Game%E2%80%85Addiction)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
