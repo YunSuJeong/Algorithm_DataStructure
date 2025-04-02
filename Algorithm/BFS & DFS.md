@@ -198,6 +198,11 @@ DFS-ALL(G) {
 - [11724] [연결 요소의 개수](https://www.acmicpc.net/problem/11724) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
 - [1012] [유기농 배추](https://www.acmicpc.net/problem/1012) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94)
 - [1260] [DFS와 BFS](https://www.acmicpc.net/problem/1260) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS)
+- [15270] [친구 팰린드롬](https://www.acmicpc.net/problem/15270) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/15270.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
+- [14496] [그대, 그머가 되어](https://www.acmicpc.net/problem/14496) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14496.%E2%80%85%EA%B7%B8%EB%8C%80%EF%BC%8C%E2%80%85%EA%B7%B8%EB%A8%B8%EA%B0%80%E2%80%85%EB%90%98%EC%96%B4)
+- [17086] [아기 상어 2](https://www.acmicpc.net/problem/17086) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/17086.%E2%80%85%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4%E2%80%852)
+- [1326] [폴짝폴짝](https://www.acmicpc.net/problem/1326) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1326.%E2%80%85%ED%8F%B4%EC%A7%9D%ED%8F%B4%EC%A7%9D)
+- [18232] [텔레포트 정거장](https://www.acmicpc.net/problem/18232) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/18232.%E2%80%85%ED%85%94%EB%A0%88%ED%8F%AC%ED%8A%B8%E2%80%85%EC%A0%95%EA%B1%B0%EC%9E%A5)
 
 ### SWEA
 - [6808] [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1&&&&&&&&&&) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6808.%E2%80%85%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
