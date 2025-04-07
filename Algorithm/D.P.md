@@ -66,6 +66,8 @@
 - [19622] [회의실 배정 3](https://www.acmicpc.net/problem/19622) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/19622.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95%E2%80%853)
 - [17291] [새끼치기](https://www.acmicpc.net/problem/17291) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/17291.%E2%80%85%EC%83%88%EB%81%BC%EC%B9%98%EA%B8%B0)
 - [11867] [박스 나누기 게임](https://www.acmicpc.net/problem/11867) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/11867.%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84)
+- [17271] [리그 오브 레전설 (Small)](https://www.acmicpc.net/problem/17271) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/17271.%E2%80%85%EB%A6%AC%EA%B7%B8%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EC%A0%84%EC%84%A4%E2%80%85%EF%BC%88Small%EF%BC%89)
+- [17213] [과일 서리](https://www.acmicpc.net/problem/17213) : 중복 순열 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/17213.%E2%80%85%EA%B3%BC%EC%9D%BC%E2%80%85%EC%84%9C%EB%A6%AC)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
