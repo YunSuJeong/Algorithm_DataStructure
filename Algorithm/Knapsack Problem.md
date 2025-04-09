@@ -48,9 +48,12 @@
 추후 정리 예정입니다.
 
 ## 예제
-### SWEA
-- [5215] []() : []()
+### 백준
+- [16493] [최대 페이지 수](https://www.acmicpc.net/problem/16493) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/16493.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%8E%98%EC%9D%B4%EC%A7%80%E2%80%85%EC%88%98)
 
+### SWEA
+- [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
+- [3282] [0/1 Knapsack](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJAVpqrzQDFAWr&categoryId=AWBJAVpqrzQDFAWr&categoryType=CODE&problemTitle=3282&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/3282.%E2%80%850%EF%BC%8F1%E2%80%85Knapsack)
 
 ## 출처
 - [이니의 공부일지:티스토리](https://inni-iii.tistory.com/74)
