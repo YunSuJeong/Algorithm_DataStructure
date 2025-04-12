@@ -72,6 +72,7 @@
 - [11060] [점프 점프](https://www.acmicpc.net/problem/11060) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/11060.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%A0%90%ED%94%84)
 - [4097] [수익](https://www.acmicpc.net/problem/4097) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/4097.%E2%80%85%EC%88%98%EC%9D%B5)
 - [11568] [민균이의 계략](https://www.acmicpc.net/problem/11568) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/11568.%E2%80%85%EB%AF%BC%EA%B7%A0%EC%9D%B4%EC%9D%98%E2%80%85%EA%B3%84%EB%9E%B5)
+- [14430] [자원 캐기](https://www.acmicpc.net/problem/14430) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14430.%E2%80%85%EC%9E%90%EC%9B%90%E2%80%85%EC%BA%90%EA%B8%B0)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
