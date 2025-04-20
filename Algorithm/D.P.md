@@ -75,11 +75,12 @@
 - [14430] [자원 캐기](https://www.acmicpc.net/problem/14430) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14430.%E2%80%85%EC%9E%90%EC%9B%90%E2%80%85%EC%BA%90%EA%B8%B0)
 - [1793] [타일링](https://www.acmicpc.net/problem/1793) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1793.%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81)
 - [9658] [돌 게임 4](https://www.acmicpc.net/problem/9658) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/9658.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%854)
+- [1535] [안녕](https://www.acmicpc.net/problem/1535) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1535.%E2%80%85%EC%95%88%EB%85%95)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
 - [3307] [최장 증가 부분 수열](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWBOKg-a6l0DFAWr&categoryId=AWBOKg-a6l0DFAWr&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=2) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/3307.%E2%80%85%EC%B5%9C%EC%9E%A5%E2%80%85%EC%A6%9D%EA%B0%80%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4)
- 
+- [22574] [높은 곳으로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZIieDaq5AEDFAXd&categoryId=AZIieDaq5AEDFAXd&categoryType=CODE&problemTitle=22574&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/22574.%E2%80%85%EB%86%92%EC%9D%80%E2%80%85%EA%B3%B3%EC%9C%BC%EB%A1%9C)
 
 [참고] https://hongjw1938.tistory.com/47
 
