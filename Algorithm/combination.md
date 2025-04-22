@@ -14,3 +14,6 @@
 
 ### SWEA
 - [5607] [조합](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWXGKdbqczEDFAUo&categoryId=AWXGKdbqczEDFAUo&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1&&&&&&&&&&) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5607.%E2%80%85%EF%BC%BBProfessional%EF%BC%BD%E2%80%85%EC%A1%B0%ED%95%A9)
+
+## 참고
+- 중복조합 개념 : https://sskl660.tistory.com/51
