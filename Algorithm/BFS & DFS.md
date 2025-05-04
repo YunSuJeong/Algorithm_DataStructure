@@ -230,6 +230,7 @@ DFS-ALL(G) {
 - [18404] 현명한 나이트 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/18404.%E2%80%85%ED%98%84%EB%AA%85%ED%95%9C%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8)
 - [1325] 효율적인 해킹 :[소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1325.%E2%80%85%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%E2%80%85%ED%95%B4%ED%82%B9)
 - [14940] 쉬운 최단거리 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14940.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+- [18243] Small World Network : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/18243.%E2%80%85Small%E2%80%85World%E2%80%85Network)
 
 ### SWEA
 - [6808] [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1&&&&&&&&&&) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6808.%E2%80%85%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
