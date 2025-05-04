@@ -13,3 +13,6 @@
 
 ### SWEA
 - [2806] [N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&problemTitle=2806&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/2806.%E2%80%85N%EF%BC%8DQueen)
+- [9480] 민정이와 광직이의 알파벳 공부 : 모든 조합을 탐색하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/9480.%E2%80%85%EB%AF%BC%EC%A0%95%EC%9D%B4%EC%99%80%E2%80%85%EA%B4%91%EC%A7%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EA%B3%B5%EB%B6%80)
+- [1954] 달팽이 숫자 : 시계방향으로 배열을 숫자로 채우는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D2/1954.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%E2%80%85%EC%88%AB%EC%9E%90)
+- [11688] Calkin-Wilf tree 1 : 문제조건을 그대로 구현하는 간단한 재귀 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/11688.%E2%80%85Calkin%EF%BC%8DWilf%E2%80%85tree%E2%80%851)
