@@ -86,6 +86,7 @@
 - [7579] 앱 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Gold/7579.%E2%80%85%EC%95%B1)
 - [12865] 평범한 배낭 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD)
 - [33677] 푸앙이와 콩나무 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/33677.%E2%80%85%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80%E2%80%85%EC%BD%A9%EB%82%98%EB%AC%B4)
+- [27446] 랩실에서 잘 자요 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/27446.%E2%80%85%EB%9E%A9%EC%8B%A4%EC%97%90%EC%84%9C%E2%80%85%EC%9E%98%E2%80%85%EC%9E%90%EC%9A%94)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
@@ -94,6 +95,7 @@
 - [21131] 행렬정렬 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/21131.%E2%80%85%ED%96%89%EB%A0%AC%EC%A0%95%EB%A0%AC)
 - [4466] 최대 성적표 만들기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/4466.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%84%B1%EC%A0%81%ED%91%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [1859] 백만 장자 프로젝트 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D2/1859.%E2%80%85%EB%B0%B1%EB%A7%8C%E2%80%85%EC%9E%A5%EC%9E%90%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [5642] [Professional] 합 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5642.%E2%80%85%EF%BC%BBProfessional%EF%BC%BD%E2%80%85%ED%95%A9)
 
 [참고] https://hongjw1938.tistory.com/47
 
