@@ -88,6 +88,8 @@
 - [33677] 푸앙이와 콩나무 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/33677.%E2%80%85%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80%E2%80%85%EC%BD%A9%EB%82%98%EB%AC%B4)
 - [27446] 랩실에서 잘 자요 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/27446.%E2%80%85%EB%9E%A9%EC%8B%A4%EC%97%90%EC%84%9C%E2%80%85%EC%9E%98%E2%80%85%EC%9E%90%EC%9A%94)
 - [3976] 역습 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/3976.%E2%80%85%EC%97%AD%EC%8A%B5)
+- [10164] 격자상의 경로 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/10164.%E2%80%85%EA%B2%A9%EC%9E%90%EC%83%81%EC%9D%98%E2%80%85%EA%B2%BD%EB%A1%9C)
+- [2302] 극장 좌석 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2302.%E2%80%85%EA%B7%B9%EC%9E%A5%E2%80%85%EC%A2%8C%EC%84%9D)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
