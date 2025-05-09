@@ -91,6 +91,7 @@
 - [10164] 격자상의 경로 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/10164.%E2%80%85%EA%B2%A9%EC%9E%90%EC%83%81%EC%9D%98%E2%80%85%EA%B2%BD%EB%A1%9C)
 - [2302] 극장 좌석 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2302.%E2%80%85%EA%B7%B9%EC%9E%A5%E2%80%85%EC%A2%8C%EC%84%9D)
 - [21600] 계단 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/21600.%E2%80%85%EA%B3%84%EB%8B%A8)
+- [14613] 너의 티어는? : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/14613.%E2%80%85%EB%84%88%EC%9D%98%E2%80%85%ED%8B%B0%EC%96%B4%EB%8A%94%EF%BC%9F)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
