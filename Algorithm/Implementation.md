@@ -15,4 +15,7 @@
 - [8556] 북북서 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8556.%E2%80%85%EB%B6%81%EB%B6%81%EC%84%9C)
 - [17642] 최대 조작 횟수 : 분기 조건 잘 찾아야하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/17642.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%A1%B0%EC%9E%91%E2%80%85%ED%9A%9F%EC%88%98)
 - [20551] 증가하는 사탕 수열 : 분기 조건 잘 찾아야하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/20551.%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EC%88%98%EC%97%B4)
-- [12051] 프리셀 통계 : 문제 이해도 못했고, 분기 조건도 못 찾아 어려워했던 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/12051.%E2%80%85%ED%94%84%EB%A6%AC%EC%85%80%E2%80%85%ED%86%B5%EA%B3%84)
+- [12051] 프리셀 통계 : ★★★ 문제 이해도 못했고, 분기 조건도 못 찾아 어려워했던 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/12051.%E2%80%85%ED%94%84%EB%A6%AC%EC%85%80%E2%80%85%ED%86%B5%EA%B3%84)
+- [7532] 세영이의 SEM력 연도 : 완전 탐색 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/7532.%E2%80%85%EC%84%B8%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85SEM%EB%A0%A5%E2%80%85%EC%97%B0%EB%8F%84)
+- [6781] 삼삼 트리플 게임 : ★ 분기조건은 잘 찾았지만 조건체크 순서를 더 신중하지 고민하지 못한 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6781.%E2%80%85%EC%82%BC%EC%82%BC%E2%80%85%ED%8A%B8%EB%A6%AC%ED%94%8C%E2%80%85%EA%B2%8C%EC%9E%84)
+- [5293] 이진 문자열 복원 : ★★★ 규칙을 찾지못해 접근도 못한 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5293.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B3%B5%EC%9B%90)
