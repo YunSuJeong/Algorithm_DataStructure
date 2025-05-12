@@ -78,3 +78,6 @@ java.util.Collection를 상속한다.
 ## 예제
 ### 백준
 - [26069] [붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) : [소스 보기](https://github.com/YunSuJeong/BAEKJOON/tree/main/%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4)
+
+### SWEA
+- [2948] 문자열 교집합 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/2948.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B5%90%EC%A7%91%ED%95%A9)
