@@ -51,3 +51,4 @@
 ## SWEA
 - [7510] 상원이의 연속 합 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/7510.%E2%80%85%EC%83%81%EC%9B%90%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%E2%80%85%ED%95%A9)
 - [20728] 공평한 분배 2 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/20728.%E2%80%85%EA%B3%B5%ED%8F%89%ED%95%9C%E2%80%85%EB%B6%84%EB%B0%B0%E2%80%852)
+- [19185] 육십갑자 : 투포인터 이용해 푸는 브루트포스 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/19185.%E2%80%85%EC%9C%A1%EC%8B%AD%EA%B0%91%EC%9E%90)
