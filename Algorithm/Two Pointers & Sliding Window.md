@@ -46,6 +46,7 @@
 - [15565] 귀여운 라이언 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/15565.%E2%80%85%EA%B7%80%EC%97%AC%EC%9A%B4%E2%80%85%EB%9D%BC%EC%9D%B4%EC%96%B8)
 - [15961] 회전 초밥 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Gold/15961.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5)
 - [11003] 최솟값 찾기 : deque를 사용한 슬라이딩 윈도우 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Platinum/11003.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%E2%80%85%EC%B0%BE%EA%B8%B0)
+- [1522] 문자열 교환 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1522.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B5%90%ED%99%98)
 
 ## SWEA
 - [7510] 상원이의 연속 합 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/7510.%E2%80%85%EC%83%81%EC%9B%90%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%E2%80%85%ED%95%A9)
