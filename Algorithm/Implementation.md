@@ -22,3 +22,4 @@
 - [3260] 두 수의 덧셈 : 받아올림 처리하여 풀었지만, BigInteger사용하여 풀이도 가능함 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/3260.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EB%8D%A7%EC%85%88)
 - [20955] XY 문자열 1 : ★★ 반대로 접근하면 풀리는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/20955.%E2%80%85XY%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%851)
 - [8500] 극장 좌석 : ★ 문제 조건을 이해하지 못했던 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8500.%E2%80%85%EA%B7%B9%EC%9E%A5%E2%80%85%EC%A2%8C%EC%84%9D)
+- [20934] 방울 마술 : ★ 규칙찾기 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/20934.%E2%80%85%EB%B0%A9%EC%9A%B8%E2%80%85%EB%A7%88%EC%88%A0)
