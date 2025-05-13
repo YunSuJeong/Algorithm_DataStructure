@@ -21,6 +21,7 @@
 - [25214] 크림 파스타 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/25214.%E2%80%85%ED%81%AC%EB%A6%BC%E2%80%85%ED%8C%8C%EC%8A%A4%ED%83%80)
 - [25418] 정수 a를 k로 만들기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/25418.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85a%EB%A5%BC%E2%80%85k%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [25215] 타이핑 : ★★ [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/25215.%E2%80%85%ED%83%80%EC%9D%B4%ED%95%91)
+- [32200] 항해 : A의 최대이면서 B의 최소값을 구하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/32200.%E2%80%85%ED%95%AD%ED%95%B4)
 
 ### SWEA
 - [8338] 계산기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8338.%E2%80%85%EA%B3%84%EC%82%B0%EA%B8%B0)
