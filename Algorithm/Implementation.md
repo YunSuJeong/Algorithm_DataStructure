@@ -23,3 +23,5 @@
 - [20955] XY 문자열 1 : ★★ 반대로 접근하면 풀리는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/20955.%E2%80%85XY%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%851)
 - [8500] 극장 좌석 : ★ 문제 조건을 이해하지 못했던 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8500.%E2%80%85%EA%B7%B9%EC%9E%A5%E2%80%85%EC%A2%8C%EC%84%9D)
 - [20934] 방울 마술 : ★ 규칙찾기 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/20934.%E2%80%85%EB%B0%A9%EC%9A%B8%E2%80%85%EB%A7%88%EC%88%A0)
+- [10059] 유효기간 : 년,월 기준으로 분기처리 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/10059.%E2%80%85%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
+- [4789] 성공적인 공연 기획 : 선형 탐색 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/4789.%E2%80%85%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8%E2%80%85%EA%B3%B5%EC%97%B0%E2%80%85%EA%B8%B0%ED%9A%8D)
