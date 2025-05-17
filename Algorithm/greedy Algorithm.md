@@ -29,6 +29,7 @@
 
 ### SWEA
 - [8338] 계산기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8338.%E2%80%85%EA%B3%84%EC%82%B0%EA%B8%B0)
+- [5162] 두가지 빵의 딜레마 : 최대 빵 개수 구하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5162.%E2%80%85%EB%91%90%EA%B0%80%EC%A7%80%E2%80%85%EB%B9%B5%EC%9D%98%E2%80%85%EB%94%9C%EB%A0%88%EB%A7%88)
 
 ### 참고
 - https://velog.io/@contea95/%ED%83%90%EC%9A%95%EB%B2%95%EA%B7%B8%EB%A6%AC%EB%94%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
