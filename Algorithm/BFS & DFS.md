@@ -236,6 +236,7 @@ DFS-ALL(G) {
 - [16948] 데스 나이트 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/16948.%E2%80%85%EB%8D%B0%EC%8A%A4%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8)
 - [1389] 케빈 베이컨의 6단계 법칙 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1389.%E2%80%85%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99)
 - [11559] Puyo Puyo : ★★ [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Gold/11559.%E2%80%85Puyo%E2%80%85Puyo)
+- [2583] 영역 구하기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 ### SWEA
 - [6808] 규영이와 인영이의 카드게임 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6808.%E2%80%85%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
