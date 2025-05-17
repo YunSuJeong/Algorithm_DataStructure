@@ -25,3 +25,4 @@ ex) dad, 1001, abcdcba, level ...
 - [10570] 제곱 팰린드롬 수 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/10570.%E2%80%85%EC%A0%9C%EA%B3%B1%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%E2%80%85%EC%88%98)
 - [4522] 세상의 모든 팰린드롬 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/4522.%E2%80%85%EC%84%B8%EC%83%81%EC%9D%98%E2%80%85%EB%AA%A8%EB%93%A0%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
 - [1215] [S/W 문제해결 기본] 3일차 - 회문1 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/1215.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%853%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%ED%9A%8C%EB%AC%B81)
+- [4579] 세상의 모든 팰린드롬 2 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/4579.%E2%80%85%EC%84%B8%EC%83%81%EC%9D%98%E2%80%85%EB%AA%A8%EB%93%A0%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%E2%80%852)
