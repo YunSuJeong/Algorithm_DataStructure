@@ -5,6 +5,7 @@
 - [3060] 욕심쟁이 돼지 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/3060.%E2%80%85%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E2%80%85%EB%8F%BC%EC%A7%80)
 - [10431] 줄세우기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/10431.%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0)
 - [1331] 나이트 투어 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1331.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%E2%80%85%ED%88%AC%EC%96%B4)
+- [2980] 도로와 신호등 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2980.%E2%80%85%EB%8F%84%EB%A1%9C%EC%99%80%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1)
 
 ### SWEA
 - [13732] 정사각형 판정 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/13732.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%ED%8C%90%EC%A0%95)
@@ -33,3 +34,5 @@
 - [9700] USB 꽂기의 미스터리 : 한번 뒤집는 상황, 두번 뒤집는 상황을 시뮬레이션 해보고 확률을 식으로 표현하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/9700.%E2%80%85USB%E2%80%85%EA%BD%82%EA%B8%B0%EC%9D%98%E2%80%85%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC)
 - [6900] 주혁이의 복권 당첨 : 문자열 비교 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6900.%E2%80%85%EC%A3%BC%ED%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EB%B3%B5%EA%B6%8C%E2%80%85%EB%8B%B9%EC%B2%A8)
 - [10993] 군주제와 공화제 : ★★★ 설계가 복잡했던 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/10993.%E2%80%85%EA%B5%B0%EC%A3%BC%EC%A0%9C%EC%99%80%E2%80%85%EA%B3%B5%ED%99%94%EC%A0%9C)
+- [5986] 새샘이와 세 소수 : ★ [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5986.%E2%80%85%EC%83%88%EC%83%98%EC%9D%B4%EC%99%80%E2%80%85%EC%84%B8%E2%80%85%EC%86%8C%EC%88%98)
+- [6057] 그래프의 삼각형 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6057.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95)
