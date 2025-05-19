@@ -26,6 +26,7 @@
 - [19941] 햄버거 분배 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/19941.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%B6%84%EB%B0%B0)
 - [2217] 로프 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2217.%E2%80%85%EB%A1%9C%ED%94%84)
 - [1049] 기타줄 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1049.%E2%80%85%EA%B8%B0%ED%83%80%EC%A4%84)
+- [2847] 게임을 만든 동준이 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2847.%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%84%E2%80%85%EB%A7%8C%EB%93%A0%E2%80%85%EB%8F%99%EC%A4%80%EC%9D%B4)
 
 ### SWEA
 - [8338] 계산기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8338.%E2%80%85%EA%B3%84%EC%82%B0%EA%B8%B0)
