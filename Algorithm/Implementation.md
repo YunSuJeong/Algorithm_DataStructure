@@ -37,3 +37,4 @@
 - [10993] 군주제와 공화제 : ★★★ 설계가 복잡했던 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/10993.%E2%80%85%EA%B5%B0%EC%A3%BC%EC%A0%9C%EC%99%80%E2%80%85%EA%B3%B5%ED%99%94%EC%A0%9C)
 - [5986] 새샘이와 세 소수 : ★ [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5986.%E2%80%85%EC%83%88%EC%83%98%EC%9D%B4%EC%99%80%E2%80%85%EC%84%B8%E2%80%85%EC%86%8C%EC%88%98)
 - [6057] 그래프의 삼각형 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6057.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95)
+- [1491] 원재의 벽 꾸미기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/1491.%E2%80%85%EC%9B%90%EC%9E%AC%EC%9D%98%E2%80%85%EB%B2%BD%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0)
