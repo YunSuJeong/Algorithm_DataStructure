@@ -38,3 +38,4 @@
 - [5986] 새샘이와 세 소수 : ★ [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5986.%E2%80%85%EC%83%88%EC%83%98%EC%9D%B4%EC%99%80%E2%80%85%EC%84%B8%E2%80%85%EC%86%8C%EC%88%98)
 - [6057] 그래프의 삼각형 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6057.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95)
 - [1491] 원재의 벽 꾸미기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/1491.%E2%80%85%EC%9B%90%EC%9E%AC%EC%9D%98%E2%80%85%EB%B2%BD%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0)
+- [7964] 부먹왕국의 차원 관문 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/7964.%E2%80%85%EB%B6%80%EB%A8%B9%EC%99%95%EA%B5%AD%EC%9D%98%E2%80%85%EC%B0%A8%EC%9B%90%E2%80%85%EA%B4%80%EB%AC%B8)
