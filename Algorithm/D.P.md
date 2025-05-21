@@ -99,6 +99,7 @@
 - [2780] 비밀번호 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2780.%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8)
 - [31910] 이진수 격자 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/31910.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%E2%80%85%EA%B2%A9%EC%9E%90)
 - [10844] 쉬운 계단 수 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/10844.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98)
+- [11052] 카드 구매하기 : [소스 보기](http://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
 
 ### SWEA
 - [5215] [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1) : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
