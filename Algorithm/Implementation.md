@@ -39,3 +39,6 @@
 - [6057] 그래프의 삼각형 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6057.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95)
 - [1491] 원재의 벽 꾸미기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/1491.%E2%80%85%EC%9B%90%EC%9E%AC%EC%9D%98%E2%80%85%EB%B2%BD%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 - [7964] 부먹왕국의 차원 관문 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/7964.%E2%80%85%EB%B6%80%EB%A8%B9%EC%99%95%EA%B5%AD%EC%9D%98%E2%80%85%EC%B0%A8%EC%9B%90%E2%80%85%EA%B4%80%EB%AC%B8)
+- [9839] 최고의 쌍 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/9839.%E2%80%85%EC%B5%9C%EA%B3%A0%EC%9D%98%E2%80%85%EC%8C%8D)
+- [8457] 알 덴테 스파게티 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8457.%E2%80%85%EC%95%8C%E2%80%85%EB%8D%B4%ED%85%8C%E2%80%85%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0)
+- [4371] 항구에 들어오는 배 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/4371.%E2%80%85%ED%95%AD%EA%B5%AC%EC%97%90%E2%80%85%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94%E2%80%85%EB%B0%B0)
