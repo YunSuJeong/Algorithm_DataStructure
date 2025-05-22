@@ -29,7 +29,9 @@
 - [2847] 게임을 만든 동준이 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2847.%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%84%E2%80%85%EB%A7%8C%EB%93%A0%E2%80%85%EB%8F%99%EC%A4%80%EC%9D%B4)
 - [1448] 삼각형 만들기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1448.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [1449] 수리공 항승 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1449.%E2%80%85%EC%88%98%EB%A6%AC%EA%B3%B5%E2%80%85%ED%95%AD%EC%8A%B9)
-
+- [1783] 병든 나이트 : ★★ [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/1783.%E2%80%85%EB%B3%91%EB%93%A0%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8)
+- [2012] 등수 매기기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/%EB%B0%B1%EC%A4%80/Silver/2012.%E2%80%85%EB%93%B1%EC%88%98%E2%80%85%EB%A7%A4%EA%B8%B0%EA%B8%B0)
+  
 ### SWEA
 - [8338] 계산기 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8338.%E2%80%85%EA%B3%84%EC%82%B0%EA%B8%B0)
 - [5162] 두가지 빵의 딜레마 : 최대 빵 개수 구하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/5162.%E2%80%85%EB%91%90%EA%B0%80%EC%A7%80%E2%80%85%EB%B9%B5%EC%9D%98%E2%80%85%EB%94%9C%EB%A0%88%EB%A7%88)
