@@ -42,3 +42,8 @@
 - [9839] 최고의 쌍 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/9839.%E2%80%85%EC%B5%9C%EA%B3%A0%EC%9D%98%E2%80%85%EC%8C%8D)
 - [8457] 알 덴테 스파게티 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/8457.%E2%80%85%EC%95%8C%E2%80%85%EB%8D%B4%ED%85%8C%E2%80%85%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0)
 - [4371] 항구에 들어오는 배 : [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/4371.%E2%80%85%ED%95%AD%EA%B5%AC%EC%97%90%E2%80%85%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94%E2%80%85%EB%B0%B0)
+- [24396] 공과 상자 : ★★ 조건 제대로 찾지 못한 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/24396.%E2%80%85%EA%B3%B5%EA%B3%BC%E2%80%85%EC%83%81%EC%9E%90)
+- [9778] 카드 게임 : 블랙잭 게임에서 이기기위한 판단 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/9778.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84)
+- [6019] 기차 사이의 파리 : 식 구하기 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/6019.%E2%80%85%EA%B8%B0%EC%B0%A8%E2%80%85%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%ED%8C%8C%EB%A6%AC)
+- [7675] 통역사 성경이 : ★ 입력 받는 부분 구현을 고민했던 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/7675.%E2%80%85%ED%86%B5%EC%97%AD%EC%82%AC%E2%80%85%EC%84%B1%EA%B2%BD%EC%9D%B4)
+- [7853] 오타 : 경우의 수를 나누어 분기 처리하는 문제 [소스 보기](https://github.com/YunSuJeong/Coding-Test/tree/main/SWEA/D3/7853.%E2%80%85%EC%98%A4%ED%83%80)
